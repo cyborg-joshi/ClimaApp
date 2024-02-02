@@ -1,21 +1,15 @@
+# Clima  App
 
-Clima Weather App
-Clima is a simple weather app that allows users to check the current weather conditions for a specific city or their current location. The app uses the OpenWeatherMap API to fetch real-time weather data.
+Clima is a simple iOS weather app that provides users with real-time weather information for any city or their current location. The app uses the OpenWeatherMap API to fetch weather data and presents it in a user-friendly interface.
 
-Features:-
+## Features
 
-City Search: Enter the name of a city to get up-to-date weather information, including temperature and conditions.
+- **City Search:** Enter the name of a city to retrieve detailed weather information, including temperature and conditions.
+- **Current Location:** Use your device's location services to get instant weather details based on your current coordinates.
+- **Visual Representation:** View the current weather condition with an associated image for a more engaging experience.
 
-Current Location: Utilize your device's location services to fetch weather details based on your current coordinates.
+## Getting Started
 
-Visual Representation: Display the current weather condition with a corresponding image.
-
-Technologies Used:-
-
-Swift programming language
-
-UIKit for building the user interface
-
-Core Location for location-based services
-
-OpenWeatherMap API for real-time weather data
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/clima-app.git
